@@ -1,0 +1,3 @@
+C:/Users/USUARIO/Desktop/algo1nuevo/entrega 2/cmake-build-debug/CMakeFiles/entrega_2.dir
+C:/Users/USUARIO/Desktop/algo1nuevo/entrega 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USUARIO/Desktop/algo1nuevo/entrega 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
