@@ -5,7 +5,7 @@
 Create procedures that completes the code given in class about the connections between transports already specified in TPE
 
 ## Specification 
-<b>
+
 We want to meet the requirements outlined in the "Enunciado_TPE.pdf" within the <b> folder on Overleaf, the response will be written in LaTeX for improved precision and presentation.
 
 
