@@ -6,13 +6,13 @@ Create procedures that completes the code given in class about the connections b
 
 ## Specification 
 
-We want to meet the requirements outlined in the "Enunciado_TPE.pdf" within the <b> folder on Overleaf, the response will be written in LaTeX for improved precision and presentation.
+We want to meet the requirements outlined in the "Enunciado_TPE.pdf" within the folder on Overleaf, the response will be written in LaTeX for improved precision and presentation.
 
 
 ## Implementation
 For this stage, we will utilize the specifications outlined in the Implementation Specification phase to successfully implement the previously described problem.
 
-This can be found in the <b>tp implementación<b> folder.
+This can be found in the <b>tp implementación folder.
 
 
 
